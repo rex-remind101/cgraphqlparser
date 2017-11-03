@@ -4,7 +4,6 @@ import PackageDescription
 
 let package = Package(
     name: "CGraphQLParser",
-    pkgConfig: "libgraphqlparser",
     products: [
         .library(
             name: "CGraphQLParser",
