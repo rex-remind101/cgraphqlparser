@@ -2,6 +2,11 @@
 
 C module for GraphQLParser
 
+## Installation
+
+Install libgraphqlparser https://github.com/graphql/libgraphqlparser
+Mac: `brew install libgraphqlparser`
+
 ## Building
 
 **To build on macOS:**
@@ -24,11 +29,3 @@ GraphQLParser.h
 **To build on Linux:**
 
 `swift build` should work normally.
-
-## 💧 Community
-
-Join the welcoming community of fellow Vapor developers in [slack](http://vapor.team).
-
-## 🔧 Compatibility
-
-This package has been tested on macOS and Ubuntu.
